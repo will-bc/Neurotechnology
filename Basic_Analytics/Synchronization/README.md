@@ -7,16 +7,16 @@ Math ways to detect synchronizations:
 
 ### Bivariate 
 
-	- [ ] Cross Correlation
-	- [ ] Cross Coherence
-	- [ ] Mutual Information
+- [ ] Cross Correlation
+- [ ] Cross Coherence
+- [ ] Mutual Information
 	
 - [x] [Phase Locking](https://github.com/will-bc/Neurotechnology/tree/main/Basic_Analytics/Synchronization/Phase_Synchronization)
 
 ### Multivariate
 
-	- [ ] Omega Complexity
-	- [ ] S-Estimator
-	- [ ] Renyi Entropy
-	- [ ] Multivariate Phase
-	- [ ] Global Field
+- [ ] Omega Complexity
+- [ ] S-Estimator
+- [ ] Renyi Entropy
+- [ ] Multivariate Phase
+- [ ] Global Field
