@@ -11,7 +11,7 @@ Math ways to detect synchronizations:
 - [ ] Cross Coherence
 - [ ] Mutual Information
 	
-- [x] [Phase Locking](https://github.com/will-bc/Neurotechnology/tree/main/Basic_Analytics/Synchronization/Phase_Synchronization)
+- [x] [Phase Locking (building)](https://github.com/will-bc/Neurotechnology/tree/main/Basic_Analytics/Synchronization/Phase_Synchronization)
 
 ### Multivariate
 
