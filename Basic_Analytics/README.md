@@ -1,9 +1,6 @@
 # Menu
 
-[ ] Synchronization
-
-[ ] Fast Fourier Transform
-
-[ ] Filters
-
-[ ] Wavelet Analysis
+- [ ] Synchronization
+- [ ] Fast Fourier Transform
+- [ ] Filters
+- [ ] Wavelet Analysis
