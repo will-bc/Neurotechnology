@@ -10,7 +10,7 @@ Math ways to detect synchronizations:
 	- [ ] Cross Correlation
 	- [ ] Cross Coherence
 	- [ ] Mutual Information
-	- [ ] Phase Locking
+	- [v] [Phase Locking](https://github.com/will-bc/Neurotechnology/tree/main/Basic_Analytics/Synchronization/Phase_Synchronization)
 
 ### Multivariate
 
