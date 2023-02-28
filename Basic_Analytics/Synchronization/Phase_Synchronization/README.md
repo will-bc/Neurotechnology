@@ -14,4 +14,4 @@ Other names in literature for the same analysis (formula):
 
 **Inter-site phase clustering**
 
-## Inter-site phase clustering
+## Inter-site Phase Clustering
