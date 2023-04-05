@@ -24,7 +24,7 @@ Y = univariate time series
 
 $\widetilde{Y}_i^t$= Hilbert transform
 
-j= imaginary unit
+**j**= imaginary unit
 
 L= length
 
