@@ -21,3 +21,7 @@ $$(\varphi_i^t)= arctan (\widetilde{Y}_i^t)/ Y_i^t)$$
 $$ISPC_{Y_{1},Y_{2}}= \frac{1}{L} \vert \sum_{t=1}^{L} e^{j(\varphi_1^t - \varphi_2^t)} \vert $$
 
 ## Inter-site Phase Clustering
+
+In this analysis we are looking for patterns of "phases" in waves. Remember that a phase is a cycle repetition dependent of time, period, amplitude and frequency and can be represented using angles diagrams:
+
+![Figure 1](https://upload.wikimedia.org/wikipedia/commons/9/92/Phase_shifter_using_IQ_modulator.gif "Figure 1")
