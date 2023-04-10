@@ -6,6 +6,6 @@ For more details:
 
 🗐 [Presentation website](https://technodruidism.github.io/technodruid/)
 
-[@technodruidism](https://www.instagram.com/technodruidism/)
+🌐[@technodruidism](https://www.instagram.com/technodruidism/)
 
-[Whatsnextforearth Exposition in mahb stanford](https://www.whatsnextforearth.com/artists/willian-barela-costa/)
+🖼️[Whatsnextforearth Exposition in mahb stanford](https://www.whatsnextforearth.com/artists/willian-barela-costa/)
