@@ -4,8 +4,8 @@ Technodruid design is a neuroartistic artifact. We drew a line of provocation an
 
 For more details: 
 
-[@technodruidism](https://www.instagram.com/technodruidism/)
-
 [Presentation website](https://technodruidism.github.io/)
+
+[@technodruidism](https://www.instagram.com/technodruidism/)
 
 [Whatsnextforearth Exposition in mahb stanford](https://www.whatsnextforearth.com/artists/willian-barela-costa/)
