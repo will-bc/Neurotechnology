@@ -4,7 +4,7 @@ Technodruid design is a neuroartistic artifact. We drew a line of provocation an
 
 For more details: 
 
-[Presentation website](https://technodruidism.github.io/)
+[Presentation website](https://technodruidism.github.io/technodruid/)
 
 [@technodruidism](https://www.instagram.com/technodruidism/)
 
