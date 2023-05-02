@@ -15,7 +15,7 @@ Among the desired signals, how would you like to visualize them, what mathematic
 - #### Feature Selection
 Selection of conditions to be analyzed, relaxed vs stressed vs happy.
 
-- ####Classification
+- #### Classification
 Statistical analysis and classification of patterns in the data: true, false, outliers, close, etc.
 
 In Feature Extraction and Selection analyzes they can be reversed, it depends a lot on the data analyst.
