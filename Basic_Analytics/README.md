@@ -6,16 +6,16 @@ Mostly I will bring the use of EEG data. Depending on which neurotechnology you 
 
 The data goes through 4 major phases:
 
-- Preprocessing
+- #### Preprocessing
 Basically elimination of unwanted noise or signals.
 
-- Feature Extraction
+- #### Feature Extraction
 Among the desired signals, how would you like to visualize them, what mathematical language would you like to use as a tool to manipulate them.
 
-- Feature Selection
+- #### Feature Selection
 Selection of conditions to be analyzed, relaxed vs stressed vs happy.
 
--  Classification
+- ####Classification
 Statistical analysis and classification of patterns in the data: true, false, outliers, close, etc.
 
 In Feature Extraction and Selection analyzes they can be reversed, it depends a lot on the data analyst.
