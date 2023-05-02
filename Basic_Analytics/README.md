@@ -1,3 +1,4 @@
+# NeuroInformation
 
 🍊 All neurodata analysis will need to go through mathematical techniques to be able to be understood. Think of it as a decoding, a secret that only math skills combined with an understanding of context bring answers.
 
